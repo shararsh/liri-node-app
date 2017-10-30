@@ -10,6 +10,8 @@
   "author": "Sharareh Shafieikermani",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.81.0"
+    "request": "^2.83.0",
+    "spotify": "^1.0.7",
+    "twitter": "^1.7.1"
   }
 }
